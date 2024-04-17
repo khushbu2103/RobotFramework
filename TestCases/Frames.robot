@@ -42,8 +42,8 @@ RegTest
     ${implicittime}=    get selenium implicit wait
     log to console  ${implicittime}
     select radio button     Gender      M
-    input text      name:FirstName       Rihal
-    input text      name:LastName       Shaikh
-    input text      name:Email       rihalshaikh999@gmail.com
-    input text      name:Password       Pass@123
-    input text      name:ConfirmPassword       Pass@123
+    input text      name:FirstName       Khushi
+    input text      name:LastName       Soni
+    input text      name:Email       khushi123testid@gmail.com
+    input text      name:Password       rajwiney21
+    input text      name:ConfirmPassword       rajwiney21

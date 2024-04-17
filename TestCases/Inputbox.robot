@@ -18,7 +18,7 @@ TestingInputBox
 
     #element should not be visible   ${"email_txt"}
 
-    input text  ${"email_txt"}    rihalshaikh999@gmail.com
+    input text  ${"email_txt"}    khushi123testid@gmail.com
     sleep   5
     clear element text  ${"email_txt"}
     sleep   3

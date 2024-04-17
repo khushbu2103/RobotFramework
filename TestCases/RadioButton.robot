@@ -10,10 +10,10 @@ Testing Radio Buttons and Check Boxes
     open browser    ${url}      ${browser}
     maximize browser window
 
-    input text  placeholder:Enter First Name    Rihal
-    input text  placeholder:Enter Last Name     Shaikh
+    input text  placeholder:Enter First Name    Khushi
+    input text  placeholder:Enter Last Name     Soni
     #Selecting Radio button
-    select radio button     gender     Male
+    select radio button     gender     Female
 
 
 
@@ -34,16 +34,16 @@ Testing Radio Buttons and Check Boxes
 #* Variables *
 #${URL}  https://www.ankitweblogic.com/html/formexercise.php
 #${BROWSER}  chrome
-#${FIRST_NAME}  Rihal
-#${LAST_NAME}  Shaikh
-#${DATE}  16
+#${FIRST_NAME}  Khushi
+#${LAST_NAME}  Soni
+#${DATE}  21
 #${MONTH}  January
-#${YEAR}  1999
+#${YEAR}  1996
 #${GENDER}  Male
 #${COUNTRY}  India
-#${EMAIL}  rihalshaikh999@gmail.com
+#${EMAIL}  khushi123testid@gmail.com
 #${PHONE}  8830540511
-#${PASSWORD}  Pass@123
+#${PASSWORD}  rajwiney21
 #
 #* Test Cases *
 #Fill Out Form
